@@ -9,12 +9,12 @@ let package = Package(
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
             name: "CBlurHash",
-            targets: ["CBlurHash"]),
+            targets: ["blurhash"]),
     ],
     targets: [
       //  .systemLibrary(name: "CBlurHash"),
         .target(
-          name: "CBlurHash",
+          name: "blurhash",
           dependencies: [],
           path: ".",
           exclude: [],
