@@ -12,6 +12,15 @@ let package = Package(
             targets: ["CBlurHash"]),
     ],
     targets: [
-        .systemLibrary(name: "CBlurHash")
+      //  .systemLibrary(name: "CBlurHash"),
+        .target(
+          name: "CBlurHash",
+          dependencies: [],
+          path: ".",
+          exclude: [],
+          sources: [
+            "Sources/CBlurHash/",
+          ]
+        )
     ]
 )
