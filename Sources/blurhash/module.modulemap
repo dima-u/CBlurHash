@@ -1,5 +1,5 @@
 module blurhash {
    header "include/blurhash.h"
-   link blurhash
+   //link blurhash
    export * 
 }
