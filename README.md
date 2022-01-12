@@ -1,6 +1,8 @@
 # CBlurHash
 
-Package based on https://github.com/woltapp/blurhash C implementation.
+Blurhash Swift Package. Based on C implementation.
+
+Package based on https://github.com/woltapp/blurhash
 
 Package works about 20 times faster then original swift implementation.
 
