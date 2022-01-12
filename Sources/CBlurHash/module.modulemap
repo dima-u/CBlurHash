@@ -1,5 +1,5 @@
 module CBlurHash [system] {
-   header "Sources/CBlurhash/include/CBlurHash.h"
+   header "include/CBlurHash.h"
    link CBlurHash
    export * 
 }
