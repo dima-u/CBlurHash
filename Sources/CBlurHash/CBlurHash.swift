@@ -12,7 +12,7 @@ import UIKit
 
 extension UIImage {
     // decode
-    convenience init?(blurHash: String, size: CGSize) {
+    public convenience init?(blurHash: String, size: CGSize) {
         guard let pixelBuffer = decode(blurHash, Int32(size.width), Int32(size.height), 1, 3) else {
             return nil
         }
@@ -50,7 +50,7 @@ extension UIImage {
     }
 
     // encode
-    func blurHash(xComponents: Int, yComponents: Int) -> String? {
+    public func blurHash(xComponents: Int, yComponents: Int) -> String? {
         guard let cgImage = cgImage,
               let data = cgImage.dataProvider?.data,
               let bytes = CFDataGetBytePtr(data)
