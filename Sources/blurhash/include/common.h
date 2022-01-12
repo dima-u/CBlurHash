@@ -1,8 +1,5 @@
 //
 //  common.h
-//  KaraokeStar
-//
-//  Created by dmitriy Uyanov on 11.01.2022.
 //
 
 #ifndef __BLURHASH_COMMON_H__

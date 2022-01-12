@@ -11,7 +11,7 @@ let package = Package(
     products: [
         .library(
             name: "CBlurHash",
-            targets: ["blurhash", "CBlurHash"]),
+            targets: [/*"blurhash", */"CBlurHash"]),
     ],
     targets: [
         .target(

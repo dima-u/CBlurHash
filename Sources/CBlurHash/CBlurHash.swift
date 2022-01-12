@@ -1,4 +1,3 @@
-//  Image+Blurhash.swift
 //
 //  Created by dmitriy Uyanov on 12.01.2022.
 //  dima-u@inbox.ru

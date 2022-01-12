@@ -1,8 +1,5 @@
 //
 //  decode.c
-//  KaraokeStar
-//
-//  Created by dmitriy Uyanov on 11.01.2022.
 //
 
 #include "include/decode.h"

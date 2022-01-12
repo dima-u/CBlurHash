@@ -1,8 +1,5 @@
 //
 //  encode.c
-//  KaraokeStar
-//
-//  Created by dmitriy Uyanov on 12.01.2022.
 //
 
 #include "include/encode.h"

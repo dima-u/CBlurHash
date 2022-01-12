@@ -1,8 +1,5 @@
 //
 //  decode.h
-//  KaraokeStar
-//
-//  Created by dmitriy Uyanov on 11.01.2022.
 //
 
 #ifndef __BLURHASH_DECODE_H__

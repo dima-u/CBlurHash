@@ -2,7 +2,6 @@
 //  CBlurHash.h
 //  
 //
-//  Created by dmitriy Uyanov on 12.01.2022.
 //
 
 #ifndef CBlurHash
