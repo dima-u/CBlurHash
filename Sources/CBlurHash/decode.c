@@ -5,8 +5,8 @@
 //  Created by dmitriy Uyanov on 11.01.2022.
 //
 
-#include "decode.h"
-#include "common.h"
+#include "include/decode.h"
+#include "include/common.h"
 
 static char chars[83] = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz#$%*+,-.:;=?@[]^_{|}~";
 

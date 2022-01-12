@@ -5,8 +5,8 @@
 //  Created by dmitriy Uyanov on 12.01.2022.
 //
 
-#include "encode.h"
-#include "common.h"
+#include "include/encode.h"
+#include "include/common.h"
 
 #include <string.h>
 
